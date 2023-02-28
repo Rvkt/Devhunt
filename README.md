@@ -1,4 +1,4 @@
-# DevSearch Features
+# DevHunt Features
 
 -   Share Projects
 -   Message other developers
@@ -7,10 +7,10 @@
 
 # Project Overview
 
--   Basic Djagno Overview
+-   Basic Django Overview
 -   Database Design and Models
 -   Static Files
--   User Registration & Authenticaiton
+-   User Registration & Authentication
 -   Search
 -   Pagination
 -   Building an API with Django REST Framework (DRF)
@@ -22,7 +22,7 @@
 -   Postgres
 -   Django REST Framework
 
-# Home Page
+<!-- # Home Page
 
 <img src="./resources/images/Devsearch Home.jpg">
 
@@ -36,4 +36,4 @@
 
 # User Inbox
 
-<img src="./resources/images/Devsearch Inbox.jpg">
+<img src="./resources/images/Devsearch Inbox.jpg"> -->
