@@ -1,4 +1,5 @@
 # DevHunt Features
+# DevHunt Features
 
 -   Share Projects
 -   Message other developers
@@ -24,16 +25,16 @@
 
 <!-- # Home Page
 
-<img src="./resources/images/Devsearch Home.jpg">
+# <img src="./resources/images/Devsearch Home.jpg">
 
 # Projects Page
 
-<img src="./resources/images/DevSearch Projects.jpg">
+# <img src="./resources/images/DevSearch Projects.jpg">
 
 # Profile Page
 
-<img src="./resources/images/Devsearch Profile.jpg">
+# <img src="./resources/images/Devsearch Profile.jpg">
 
 # User Inbox
 
-<img src="./resources/images/Devsearch Inbox.jpg"> -->
+<img src="./resources/images/Devsearch Inbox.jpg">
