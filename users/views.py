@@ -92,7 +92,7 @@ def userProfile(request, pk):
     otherSkills = profile.skill_set.filter(description="")
     context = {'profile': profile, 'topSkills': topSkills,
                'otherSkills': otherSkills}
-    return render(request, 'users/user-profile.html', context)
+    return render(request, 'user-profile.html', context)
 
 
 @login_required(login_url='login')
