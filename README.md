@@ -24,7 +24,7 @@
 
 
 # Home Page
-<img src="./static/images/demo/Home.png">  
+<img src="[./static/images/demo/Home.png](https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/home.png)">  
 
 # Projects Page
 <img src="./static/images/demo/Home.png"> 
