@@ -18,16 +18,16 @@ def createProfile(sender, instance, created, **kwargs):
             name=user.first_name,
         )
 
-        subject = 'Welcome Email'
-        message = 'Hello New User Welcome to Devhunt - A Creative Network'
+        # subject = 'Welcome Email'
+        # message = 'Hello New User Welcome to Devhunt - A Creative Network'
 
-        send_mail(
-            subject,
-            message,
-            settings.EMAIL_HOST_USER,
-            [profile.email],
-            fail_silently=False,
-            )
+        # send_mail(
+        #     subject,
+        #     message,
+        #     settings.EMAIL_HOST_USER,
+        #     [profile.email],
+        #     fail_silently=False,
+        #     )
 
 
 def updateUser(sender, instance, created, **kwargs):
