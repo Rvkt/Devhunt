@@ -1,5 +1,4 @@
 # DevHunt Features
-# DevHunt Features
 
 -   Share Projects
 -   Message other developers
@@ -23,18 +22,12 @@
 -   Postgres
 -   Django REST Framework
 
-<!-- # Home Page
 
-# <img src="./resources/images/Devsearch Home.jpg">
+# Home Page
+<img src="./static/images/demo/Home.png">  
 
 # Projects Page
-
-# <img src="./resources/images/DevSearch Projects.jpg">
+<img src="./static/images/demo/Home.png"> 
 
 # Profile Page
-
-# <img src="./resources/images/Devsearch Profile.jpg">
-
-# User Inbox
-
-<img src="./resources/images/Devsearch Inbox.jpg">
+<img src="./static/images/demo/Home.png">
