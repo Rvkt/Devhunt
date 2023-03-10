@@ -24,10 +24,16 @@
 
 
 # Home Page
-<img src="[./static/images/demo/Home.png](https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/home.png)">  
+<img src="https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/home.png">  
 
 # Projects Page
-<img src="./static/images/demo/Home.png"> 
+<img src="https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/projects.png"> 
 
-# Profile Page
-<img src="./static/images/demo/Home.png">
+# Login Page
+<img src="https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/login.png">
+
+# Register Page
+<img src="https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/signup.png">
+
+# Account Page
+<img src="https://github.com/Rvkt/Devhunt/blob/main/static/images/Demo/profile.png">
